@@ -1,0 +1,1 @@
+*.txt 파일은 .gitignore에 등록되지않았으므로GitHub에 업데이트됨
